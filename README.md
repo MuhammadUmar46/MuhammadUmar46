@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Full-Stack-Development
-- 💬 Ask me about MERN, Js
+- 💬 Ask me about MERN, JS
 - 📫 How to reach me: kamimirani444@gmail.com
 - ⚡ Fun fact: ...
